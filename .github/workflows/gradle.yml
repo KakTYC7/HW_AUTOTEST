@@ -1,4 +1,4 @@
-ame: Kotlin CI with Gradle
+name: Kotlin CI with Gradle
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: '*'
 
 jobs:
-  build:
+  uild:
 
     runs-on: ubuntu-latest
 
